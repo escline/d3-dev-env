@@ -1,0 +1,20 @@
+{
+    "name": "d3-dev-env",
+    "version": "0.1.0",
+    "description": "D3 Dev Env",
+    "author": {
+        "name": "Eric Cline"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:escline/d3-dev-env.git"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "d3": "4.x"
+    },
+    "devDependencies": {
+        "typescript": "^2.3.4",
+        "uglify-js": "2.x"
+    }
+}
